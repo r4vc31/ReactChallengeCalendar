@@ -1,6 +1,6 @@
 {
   "name": "react-challenge",
-  "homepage": "https://r4vc31.github.io/ReactChallengeCalendar/Calendar",
+  "homepage": "https://r4vc31.github.io/ReactChallengeCalendar",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -21,7 +21,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build -- --no-optimize",
     "test": "react-scripts test",
     "test:dev": "react-scripts test --watchAll",
     "eject": "react-scripts eject",
