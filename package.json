@@ -1,6 +1,6 @@
 {
   "name": "react-challenge",
-  "homepage": "https://r4vc31.github.io/ReactChallengeCalendar",
+  "homepage": "https://r4vc31.github.io/ReactChallengeCalendar/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -26,7 +26,7 @@
     "test:dev": "react-scripts test --watchAll",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages –d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
