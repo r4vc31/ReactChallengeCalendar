@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ReactChallengeCalendar/Calendar/static/css/main.2cf9aa13.chunk.css",
-    "main.js": "/ReactChallengeCalendar/Calendar/static/js/main.58287a86.chunk.js",
-    "main.js.map": "/ReactChallengeCalendar/Calendar/static/js/main.58287a86.chunk.js.map",
-    "runtime-main.js": "/ReactChallengeCalendar/Calendar/static/js/runtime-main.7e2e4177.js",
-    "runtime-main.js.map": "/ReactChallengeCalendar/Calendar/static/js/runtime-main.7e2e4177.js.map",
-    "static/js/2.73abc575.chunk.js": "/ReactChallengeCalendar/Calendar/static/js/2.73abc575.chunk.js",
-    "static/js/2.73abc575.chunk.js.map": "/ReactChallengeCalendar/Calendar/static/js/2.73abc575.chunk.js.map",
-    "static/js/3.e217efdf.chunk.js": "/ReactChallengeCalendar/Calendar/static/js/3.e217efdf.chunk.js",
-    "static/js/3.e217efdf.chunk.js.map": "/ReactChallengeCalendar/Calendar/static/js/3.e217efdf.chunk.js.map",
-    "index.html": "/ReactChallengeCalendar/Calendar/index.html",
-    "static/css/main.2cf9aa13.chunk.css.map": "/ReactChallengeCalendar/Calendar/static/css/main.2cf9aa13.chunk.css.map",
-    "static/js/2.73abc575.chunk.js.LICENSE.txt": "/ReactChallengeCalendar/Calendar/static/js/2.73abc575.chunk.js.LICENSE.txt"
+    "main.css": "/ReactChallengeCalendar/static/css/main.2cf9aa13.chunk.css",
+    "main.js": "/ReactChallengeCalendar/static/js/main.58287a86.chunk.js",
+    "main.js.map": "/ReactChallengeCalendar/static/js/main.58287a86.chunk.js.map",
+    "runtime-main.js": "/ReactChallengeCalendar/static/js/runtime-main.047a9694.js",
+    "runtime-main.js.map": "/ReactChallengeCalendar/static/js/runtime-main.047a9694.js.map",
+    "static/js/2.73abc575.chunk.js": "/ReactChallengeCalendar/static/js/2.73abc575.chunk.js",
+    "static/js/2.73abc575.chunk.js.map": "/ReactChallengeCalendar/static/js/2.73abc575.chunk.js.map",
+    "static/js/3.e217efdf.chunk.js": "/ReactChallengeCalendar/static/js/3.e217efdf.chunk.js",
+    "static/js/3.e217efdf.chunk.js.map": "/ReactChallengeCalendar/static/js/3.e217efdf.chunk.js.map",
+    "index.html": "/ReactChallengeCalendar/index.html",
+    "static/css/main.2cf9aa13.chunk.css.map": "/ReactChallengeCalendar/static/css/main.2cf9aa13.chunk.css.map",
+    "static/js/2.73abc575.chunk.js.LICENSE.txt": "/ReactChallengeCalendar/static/js/2.73abc575.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7e2e4177.js",
+    "static/js/runtime-main.047a9694.js",
     "static/js/2.73abc575.chunk.js",
     "static/css/main.2cf9aa13.chunk.css",
     "static/js/main.58287a86.chunk.js"
