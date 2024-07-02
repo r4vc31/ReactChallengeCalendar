@@ -8,7 +8,8 @@ const Routes = [
   },
   {
     path: '/calendar',
-    component: Calendar
+    component: Calendar,
+    exact: true
   }
 ];
 
